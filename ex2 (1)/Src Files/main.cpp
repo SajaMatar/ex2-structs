@@ -1,13 +1,8 @@
 #include<iostream>
 #include<string>
 #include<fstream>
-#include"/home/sajamatar/Desktop/summer school/data/chapter 9/ex2 (1)/Header Files/header.h"
-#include "/home/sajamatar/Desktop/summer school/data/chapter 9/ex2 (1)/implementation/fun.cpp"
+
 using namespace std;
-/* the differences : 
- 1) takes an array of student as a parameter in the fillin  fun 
- 2) prints the quizes as well 
- 3) the call of calc function   */
 
 int main()
 {

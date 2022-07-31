@@ -1,0 +1,4 @@
+ full name : Ali Ahmad
+ the id : 1234
+ quiz : 100 90 80
+ final grade : A
